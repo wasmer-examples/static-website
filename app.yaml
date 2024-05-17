@@ -1,3 +1,7 @@
----
 kind: wasmer.io/App.v0
+name: static-website
+owner: wasmer
 package: .
+domains:
+- static-website.wasmer.app
+app_id: da_2J7IAtxUoOEK
